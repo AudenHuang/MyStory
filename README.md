@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - **My Story**
 
-Submitted by: **Your Name Here**
+Submitted by: **Auden Huang**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**My Story** is an app that contains a simplified profile page about Iron Man. The initial screen of this app has a few high-level context items about Iron Man. Users are able to tap into those items to reveal more information about Iron Man.
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
